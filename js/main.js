@@ -1,6 +1,6 @@
 var bckg;
 	bckg = new Image();
-	bckg.src = 'images/cambackgrounds/background1.jpg';
+	bckg.src = 'https://raw.github.com/haywars/greenscreen/master/cambackgrounds/background1.jpg';
 	function getImage(url){
 		bckg= new Image();
 		bckg.src = url;
